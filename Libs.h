@@ -1,0 +1,12 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <conio.h>
+#include <cstdlib>
+#include <map>
+#include <string>
+#include <set>
+#include <sstream>
+#include <functional>
+#include <algorithm>
+#include <iomanip>
